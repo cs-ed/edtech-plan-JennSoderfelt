@@ -9,6 +9,9 @@ Provide a brief description of the purpose of your educational technology Plan
 
 Describe your course including the name, description, and grade level
 
+COURSE NAME
+Grade Level: 6th - 8th Grades
+
 ### Situation
 
 Provide relevant details about your course and/or school that will influence the
