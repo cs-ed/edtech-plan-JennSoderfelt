@@ -1,16 +1,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8881550&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-The purpose of this educational plan is to create a foundation for a computer science course. The course will be delivered to 6th - 8th grade students who have varying degrees of knowledge and experience with computer usage.
+The purpose of this educational plan is to create a foundation for basic computer science. The course will be delivered to 6th - 8th grade students who have varying degrees of knowledge and experience with computer usage. 
 
 ## Context
 
-### Course
+### Course 
+#### Introduction to Computer Science  <br>
+*Grade Level(s):* 6th - 8th  <br>
 
-Describe your course including the name, description, and grade level
-
-COURSE NAME
-Grade Level: 6th - 8th Grades
+This intent of this course will be to include the fundamental structure for the AP Computer Science Principles course, and is aligned with the California Content Standards for Computer Science, grades 6-8. If funding is available through the district, a pre-established curriculum that satisfies the requirements of these programs will be selected. If funding is not available, an in-house curriculum
 
 ### Situation
 
@@ -28,7 +27,7 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
-The computer devices used for this program include:
+The devices used for this program include:
 * **Instructor Laptop**  <br>
 Lenovo Thinkpad E570  <br>
 Processor - Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz  <br> 
@@ -41,6 +40,10 @@ RAM - 8 GB RAM  <br>
   Chrome OS Version - 15117.86.0  <br>
   CPU - AMD A4-9120C Radeon R4, 5 COMPUTE CORES 2C + 3G (x86_64architecture - 2 processors)  <br>
   4.07GB Storage
+  
+* **Other Hardware**  <br>
+  * Interactive Whiteboard
+  * Document Camera
 
 ### Application
 
