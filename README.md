@@ -9,13 +9,28 @@ The purpose of this educational plan is to create a foundation for basic compute
 #### Introduction to Computer Science  <br>
 *Grade Level(s):* 6th - 8th  <br>
 
-This intent of this course will be to include the fundamental structure for the AP Computer Science Principles course, and is aligned with the California Content Standards for Computer Science, grades 6-8. If funding is available through the district, a pre-established curriculum that satisfies the requirements of these programs will be selected. If funding is not available, an in-house curriculum
+This intent of this course will be to include the fundamental structure for the AP Computer Science Principles course, and is aligned with the California Content Standards for Computer Science, grades 6-8. If funding is available through the district, a pre-established curriculum that satisfies the requirements of these programs will be selected. If funding is not available, an in-house curriculum will be developed.
+
+The course will include:
+* Introduction to basic hardware
+* Exploration of data collection and various types of data
+* Program/code planning, to include the use of flowcharts
+* Basic introduction to algorithms and programming
+* Project design, using basic coding components
+* Introduction to safety guidelines and protocol development
 
 ### Situation
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
+
+Our site is a small, TK-8, Title I school. Many of our students receive varying levels of academic support services and have IEPs or 504 plans. Our school has recently upgraded to allow for one-to-one Chromebooks. One of our teachers is a part time Technology teacher, with her other time divided between various roles.   
+
+Currently, technology classes are taught by the Technology Instructor through grade 5. These classes provide introductory level computing and typing skills. Grades 6 through 8 skills are left to the discretion of their respective homeroom teachers, and there is no current class dedicated to Computer Science.
+
+As the science teacher for grades 6 - 8, I would like to incorporate computing science skills through an integration with our science program. The skills could be taught sequentially through project integration, and could build from one year to the next.
+
 
 ## Plan
 
