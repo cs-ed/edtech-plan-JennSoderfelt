@@ -21,15 +21,13 @@ The course will include:
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
-
 Our site is a small, TK-8, Title I school. Many of our students receive varying levels of academic support services and have IEPs or 504 plans. Our school has recently upgraded to allow for one-to-one Chromebooks. One of our teachers is a part time Technology teacher, with her other time divided between various roles.   
 
 Currently, technology classes are taught by the Technology Instructor through grade 5. These classes provide introductory level computing and typing skills. Grades 6 through 8 skills are left to the discretion of their respective homeroom teachers, and there is no current class dedicated to Computer Science.
 
 As the science teacher for grades 6 - 8, I would like to incorporate computing science skills through an integration with our science program. The skills could be taught sequentially through project integration, and could build from one year to the next.
+
+There are several anticipated restraints that I foresee with designing this program. One issue that I foresee is that we have limited funding for new programs. Any software and curriculum development will need to be low, to no cost. We also have strict regulation regarding internet usage and software at our site. For example, "Scratch" coding has been blocked from student use per our administration. This educational plan will need to include sound justification for permission to use programs not already approved for use.
 
 
 ## Plan
@@ -39,6 +37,14 @@ As the science teacher for grades 6 - 8, I would like to incorporate computing s
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
+
+The Edupoint, Synergy Education Platform is used as an online grading platform. As we have one-to-one Chromebooks, the Google Suite of programs are used, and by default, Google Classroom is our current Learning Management System.
+
+Given approval from administration, the following additional software programs/applications and websites would be considered for use:
+* *Scratch* - for introduction to block coding and basic algorithmic exercises
+* *code.org* - curriculum usage and coding
+* *w3schools* - code troubleshooting
+* *Github* - additional LMS
 
 ### Hardware Specifications
 
